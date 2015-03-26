@@ -1,6 +1,6 @@
 _prefs: 
   baselayer: null
-  mapid: ''
+  mapid: ericrwolfe.c5109d7e
   saveCenter: false
 _properties: {}
 attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
@@ -19,11 +19,12 @@ interactivity_layer: ''
 layers: null
 maxzoom: 22
 minzoom: 0
-name: Satellite Contours + Labels
+name: Satellite Outdoors
 source: "mapbox:///mapbox.satellite,mapbox.mapbox-terrain-v2,mapbox.mapbox-streets-v6"
 styles: 
   - style.mss
   - satellite.mss
   - contour.mss
   - labels.mss
+  - road.mss
 template: ''

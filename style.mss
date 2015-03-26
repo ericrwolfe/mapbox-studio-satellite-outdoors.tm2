@@ -41,6 +41,7 @@ Map {
 
 @poi_fill: #c4ffdb;
 
+@road_fill:         #fff;
 @road_halo:         fadeout(#222,80);
 @road_text:         #fff;
 

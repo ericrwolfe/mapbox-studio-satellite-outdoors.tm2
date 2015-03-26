@@ -1,1 +1,24 @@
-[]
+- place_name: California, United States
+  zoom: 16
+  center: 
+    - 37.68516185463855
+    - -119.1942572593689
+  tags: 
+    - userbookmark
+  index: 0
+- place_name: 3455 Solstice Canyon Rd, Malibu, 90265, California, United States
+  zoom: 16
+  center: 
+    - 34.04004965504942
+    - -118.74922449999997
+  tags: 
+    - userbookmark
+  index: 1
+- place_name: 25635 Pacific Coast Hwy, Malibu, 90265, California, United States
+  zoom: 16
+  center: 
+    - 34.037831122031285
+    - -118.73223066329955
+  tags: 
+    - userbookmark
+  index: 2
